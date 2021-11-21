@@ -6,3 +6,5 @@ __main.ipynb__ - все решение: преобразование данны�
 __inference.ipynb__ - ноутбук с инференсом решения
 
 Ссылка на обученные модели: https://drive.google.com/drive/folders/1xciipERgqHOey49lMMtmMSy_iDTveGUb?usp=sharing
+
+Ссылка на скринкаст: https://drive.google.com/file/d/1_MRc9qcIJkVfaPI2CTomvAxh2FrZECAW/view
